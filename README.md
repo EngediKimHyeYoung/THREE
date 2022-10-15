@@ -1,2 +1,2 @@
 # THREE
-  hree.js 정리
+  three.js 정리
